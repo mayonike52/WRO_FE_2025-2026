@@ -19,7 +19,7 @@ This repository contains engineering materials of a self-driven vehicle's model 
 - Coby Johns, ,
 - Preetam Natarajan, ,
 
-  ## Content inside ReadMe
+## Content inside ReadMe
   
 - Hardware
   - Components
@@ -46,5 +46,12 @@ This repository contains engineering materials of a self-driven vehicle's model 
 - Assembly Instructions
 
 # Hardware:
+
+### Components:
+
+Part:              Product:              Cost:
+RC Car Wheels      
+Arduino UNO R3
+Gear Motors
 
   
