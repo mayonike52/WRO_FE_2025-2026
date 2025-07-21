@@ -20,6 +20,7 @@ This repository contains engineering materials of a self-driven vehicle's model 
 - Preetam Natarajan, ,
 
   ## Content inside ReadMe
+  
 - Hardware
   - Components
   - Mobility Management
@@ -43,4 +44,7 @@ This repository contains engineering materials of a self-driven vehicle's model 
       - Backing Up
       - Potential Improvement: Stuck Detection
 - Assembly Instructions
+
+# Hardware:
+
   
